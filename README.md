@@ -1,6 +1,6 @@
 # Digital Methods for Social Sciences - Final Project
 ## Analysing Reactions to Nancy Pelosi's Taiwan Visit | August 2022 
-##### Group C - Nian Wan, Sajusha Ashok, Shubhnagi Dutta, and Vidusshi Singh**
+#### Group C - Nian Wan, Sajusha Ashok, Shubhnagi Dutta & Vidusshi Singh
 
 ### Table of Contents
 
@@ -314,6 +314,8 @@ Apart from the terms “Chinese mainland” and “Chinese people”, another se
 The two graphs well illustrate how terms evolve during the ten days. The first day of the visit, China’s first response was deterrence with the mentioning of PLA. The second day is a major discussion on the possibility and feasibility of the visit. The third day, the discussion becomes more ideological, by mentioning the Taiwan strait for proof of One China, Chinese people for sentimental attachment, and provocation for being the just side of this political farce. The day of the visit, the Chinese minister of MFA marked the top term by strongly condemning the doings of Pelosi. The following two days after the visit, “Eastern Theater Command” is the top term because of the retaliatory drills initiated by China. 
 
 **C. Network Mapping**
+
+![2](https://user-images.githubusercontent.com/115983317/209483356-7344716f-7046-403d-ae3d-7666630a0b80.jpg)
 
 ![Picture5](https://user-images.githubusercontent.com/115983317/209482097-217b6534-46d4-4cb4-81f4-881fe0c04d42.jpg)
 
