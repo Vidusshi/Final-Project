@@ -34,6 +34,7 @@ On August 2, 2022, Nancy Pelosi - the Speaker of the House of Representatives of
 
 In order to understand the impact of Speaker Pelosi’s visit and the narratives promoted by different actors, we use different digital methods on two different datasets on the CorText platform. The first is a corpus of media articles on the visit published between 30th July 2022—when debates regarding her potential visit started, to 10th August 2022—a week after the visit itself. The second dataset is a corpus of tweets published in the same period that mention Pelosi’s visit to Taiwan. For each section, we also analyse a smaller corpus of solely Chinese and/or Taiwanese sources to better reflect the nuances of the themes discussed. Each analysis involves the use of digital media analysis techniques such as Demography, Epic Epoch, Topic Modeling, Terms Extraction and Network Mapping scripts.
 
+
 ## SECTION I: Analysis of Media Articles
  
 **Analysis of Media Articles**
@@ -47,6 +48,7 @@ The corpus of media articles on the Pelosi visit has been acquired through the F
 
 In the following sub-sections, we dissect the corpus by identifying the frequently used terms and sources of publication, and understanding the trends in the contents using Epic Epoch and Demography scripts on CorText. We also break down the topics discussed in the corpus using Topic Modeling and Network Mapping scripts.
 
+
 ### Section I.I : General Corpus
 
 **A. Top sources of publication**
@@ -54,6 +56,7 @@ In the following sub-sections, we dissect the corpus by identifying the frequent
 ![Screenshot 2022-12-25 at 9 13 18 PM](https://user-images.githubusercontent.com/115983317/209480907-a0c53609-f3e8-40d7-b236-9038ea3479aa.png)
 
 The table above shows the top 20 publishing sources in our media corpus. As evident, there are a variety of sources represented from different countries and of varying political inclinations. CE NoticiasFinancieras is a Latin American publisher run by ContentEngine LLC. There are several western publications present such as Reuters News, Dow Jones, ABC News, Independent Online, etc. There are Asian—especially, Chinese and Taiwanese—publications such as Central News Agency, Taiwan News, Global Times and Xinhua News Agency. Thus, this confirms that our corpus is well-represented for the topic at hand.
+
 
 **B. Top Terms in the General Corpus**
 
@@ -74,6 +77,7 @@ Discussions around the “semiconductor industry” peak in the last part of the
 ![Screenshot 2022-12-25 at 9 22 48 PM](https://user-images.githubusercontent.com/115983317/209481070-6aa2ac87-2511-486b-a225-124a2d0f71fd.png)
 
 Moving on to the bump graph as presented above, similar trends can be observed – “Asian tour” is first mentioned with high frequency and then is overtaken by “military drills” and “median line”. Terms like “territorial integrity” and “national sovereignty” also lose importance over time in the corpus. The term “Semiconductor industry”, as observed above, can be seen relatively rising over time and terms like “blockade of Taiwan” and “ballistic missiles” rise in the middle and then lose importance in the discussions over the last few days. 
+
 
 **D. General Corpus: Topic Modelling**
 
@@ -127,6 +131,7 @@ The last topic, Topic 6 (2.80% of tokens) gives a wide range of terms that indic
 
 Overall, we can see that a few key topics surrounded the discussions around Nancy Pelosi’s trip. To further supplement the analysis, an intertopic distance map is provided for a better understanding of the “distance” between the 10 identified topics based on their positions on the map. The discussion was dominated by themes of diplomatic relations, trade, and defence; where the topic of US-China relations can be seen to be closely placed to that of defence and the general discussion around the Asia tour in the intertopic distance map.
 
+
 **E. General Corpus: Network Mapping**
 
 Using the CorText Network Mapping Script, we aim to identify the main topics of discussion in our media articles corpus, and to establish a network in their usage. This would help us understand the different themes of discussions around our topic, and how subtopics are clustered and related to each other. To further understand the origin of these themes, we add the third variable of publication source to the network map.
@@ -173,9 +178,11 @@ There are two smaller clusters related to the larger themes explored above. The 
 
 The second smaller cluster is linked to the previously explored ‘military activities’ cluster. It consists of nodes such as “foreign minister”, “south korea”, “north korea” and “regional security”. This could possibly stem from the impact of military activity on the southeast asian region in terms of security and trade. In line with the contents, the publication sources are primarily South Korean—Yonhap English News, Korea JoongAng Daily and KBS World News.
 
+
 ## Section I.II : Chinese and Taiwanese Corpus
 
 Since our analysis uses only English language articles, there is an over-representation of Western-origin media articles in our corpus. However, given that this event happened in Asia and that the countries of the region—especially Taiwan and China—were also directly involved, it is important to better understand their reactions to the visit. To that end, we analyse a subset of the corpus that comprises English media articles by popular publishers in China and Taiwan—Taiwan News, China Daily, South China Morning Post and Xinhua, each of which have multiple media publications. This would allow us to delve deeper into the themes discussed at the other end of the spectrum by Chinese and Taiwanese media. This sub-section comprises Topic Modelling and Network Mapping of the Chinese and Taiwanese corpus.
+
 
 **A. Chinese and Taiwanese Corpus: Topic Modelling**
 
@@ -216,6 +223,7 @@ The second cluster can be inferred to be about military activities related to th
 
 Interestingly, in the clusters presented above, we can see some more representation of Taiwanese media. Prominent nodes include “Taiwan independence”, “democratic progressive party”—which is the Taiwanese nationalist party, “mainland China”. Another important connection established here is between “semiconductor”, “mainland China” and “natural sand”. As explained previously, natural sand exported from China to Taiwan is essential for its semiconductor and thus chip manufacturing industry. Taiwanese chips are exported to all parts of the world, including South Korea, Japan and the United States.
 
+
 ## Section I.III : Observations and Inferences
 
 From topic modelling, the following observations can be made about the themes discussed:
@@ -237,6 +245,7 @@ From the network maps, the following observations can be made about narratives i
 
 Data for the corpus was extracted from Twitter using Google Collab. All English language Tweets with the search query “Pelosi OR Taiwan” between the dates July 30, 2022 and August 10, 2022 were collected using the mentioned software. The rationale behind these dates is that the former marks a couple of days before Nancy Pelosi visited Taiwan (August 2) and the latter marks about a week after the visit. It is during this period that social media discussed the issue most. Furthermore, we are aware that collecting only English language Tweets comes with its limitation of not covering important vernacular Tweets, especially from China. Given this, we also perform an analysis of Tweets that reflect the official Chinese opinion on the issue in the following section. The present section is limited to an analysis of a more general and global take on the visit. 
 
+
 ## Section II.I : General Twitter Corpus
 
 **A. Top Locations**
@@ -246,6 +255,7 @@ Data for the corpus was extracted from Twitter using Google Collab. All English 
 The table above shows which countries Tweeted most about Nancy Pelosi’s visit to Taiwan. Since several locations were in the form of cities, districts, or states, the data was cleaned to mention only countries. Certain redundant locations like “Earth”, “Worldwide”, and “Global”, however, still exist. This is a limitation of the corpus. We can see that the United States has talked most about it, more than thrice the second highest country - India. This is unsurprising given first that the visit directly concerns the country’s Speaker of the House of Representatives and second, that the United States has historically had highly strained relations with China. This visit thus sends a strong message to China regarding the United States’ unequivocal support for Taiwan against Chinese threats of integration with the mainland. It may appear strange that China and Taiwan are only the fifth and seventh highest countries to Tweet about Pelosi’s visit because it directly concerns them. However, as stated in the preceding paragraph, since these are English Tweets, they do not accurately reflect the importance of the issue in the aforementioned countries. Further, that Taiwan is a geographically small area with merely around 20 million inhabitants could also explain its relatively lower position in the table above. 
 
 Another interesting fact to note is that India features rather high in the list despite the event not directly affecting its inhabitants. One explanation for this could be that India - much like the United States - has had strained diplomatic relations with China and is frequently talked about online by the Indian public and media alike. Another could be that India is among the most populous countries in the world; it is but natural that several Tweets are sent from there. The United Kingdom’s Twitter interest (third in the list of countries) in the event could be because of similar issues faced by Hong Kong, which is a former British colony. 
+
 
 **B. Top Terms**
 
@@ -258,6 +268,7 @@ c. Discussion around the joint military exercises organised by Beijing around Ta
 d. Description of the relations between China and Taiwan - “warnings from China”, “support Taiwan”, “one-China principle”, “China tensions”, “Taiwan and China”, and “threats”
 
 Having said this, it must be conceded that the table above does not reveal a significant amount about the political leanings of users or about how exactly they perceive Pelosi’s visit barring words like “support Taiwan” which betrays a clear anti-China sentiment. A major chunk of terms are neutral in nature.
+
 
 **C. Network Mapping**
 
@@ -272,9 +283,7 @@ At the outset, it is clear that the map has no central cluster around which othe
 
 **Terms-Terms Map With Locations Superimposed**
 
-
 ![Picture4](https://user-images.githubusercontent.com/115983317/209481637-511f7b7e-e36e-4097-856d-50df757be1a2.png)
-
 
 This map represents a homogeneous network of terms used in the Twitter corpus post cleaning them up to remove redundant terms and club terms with similar meanings. A third variable of the location of users was superimposed onto the map to get a sense of how different countries reacted to the visit. 
 
@@ -291,6 +300,7 @@ The data of China twitter corpus were collected through Google Colab. In 2009, T
 
 The corpus is made up of 36 accounts, which can be categorised into the following three types: 1) Chinese government (e.g. @MFA_China, the official account of the MFA office of spokesperson) and government officials (e.g. @ SpokespersonCHN, Assistant Minister of Foreign Affairs, Foreign Ministry Spokesperson, Director General of MFA PRC); 2) media (e.g. @XHNews, China state-affiliated public media) and journalist (e.g. @HuXijin_GT, Global Times commentator); 3) civil society (e.g. @ChinaUSFocus, A China-US Exchange Foundation initiative to promote exclusive dialogue). Because of the limited sources of account and for more comprehensive data, the search query is altered into “Pelosi OR Taiwan”, as any account mentioned above with a tweet mentioning either one of the terms from July 30th to august 10th 2022 expressed opinions concerning this political event. 
  
+
 **A. Top Terms**
 
 ![Screenshot 2022-12-25 at 9 54 01 PM](https://user-images.githubusercontent.com/115983317/209481703-ceed7d49-7022-4094-9f10-6f6751f0400c.png)
@@ -305,6 +315,7 @@ Another set of terms include political ideologies, like “Taiwan question”, �
 
 Apart from the terms “Chinese mainland” and “Chinese people”, another set of terms include governmental agencies like “Taiwan Affairs Office” and “Chinese Foreign Ministry”, as well as authoritative figures like “Minister Wang Yi” and “Spokesperson Hua Chunying”. The Taiwan Affairs Office of the State Council is an administrative agency under the State Council of Mainland China. It is responsible for setting and implementing guidelines and policies related to Taiwan, as stipulated by the Central Committee of the Chinese Communist Party and the State Council itself. Its work also includes preparations for negotiations and agreements with Taiwan authorities and coordination in mail, transport and trade across the Taiwan Strait and so on. Hua Chunying is a Chinese official and former diplomat serving as spokesperson for the MFA since 2012 and as the Assistant Minister of Foreign Affairs since 2021. Hua was the fifth spokeswoman and 27th spokesperson since the position was established in the ministry in 1983. She constantly uses social media like Twitter for comments.
 
+
 **B. Evolution of Terms: Demography and Epic Epoch**
 
 ![Screenshot 2022-12-25 at 9 58 06 PM](https://user-images.githubusercontent.com/115983317/209481790-b4607e6a-7c5f-46d7-a3cf-0fe60d6c55f5.png)
@@ -312,6 +323,7 @@ Apart from the terms “Chinese mainland” and “Chinese people”, another se
 ![Screenshot 2022-12-25 at 9 58 22 PM](https://user-images.githubusercontent.com/115983317/209481798-5cdbb3c9-1391-4d58-811c-4cf51030af93.png)
 
 The two graphs well illustrate how terms evolve during the ten days. The first day of the visit, China’s first response was deterrence with the mentioning of PLA. The second day is a major discussion on the possibility and feasibility of the visit. The third day, the discussion becomes more ideological, by mentioning the Taiwan strait for proof of One China, Chinese people for sentimental attachment, and provocation for being the just side of this political farce. The day of the visit, the Chinese minister of MFA marked the top term by strongly condemning the doings of Pelosi. The following two days after the visit, “Eastern Theater Command” is the top term because of the retaliatory drills initiated by China. 
+
 
 **C. Network Mapping**
 
@@ -330,6 +342,7 @@ To the right of the cluster of diplomacy and politics is the yellow cluster of t
 
 The blue cluster at the bottom of the green cluster are the clusters that focus on Taiwan authorities, Taiwan independence, dialogue between mainland China and Taiwan, and possible punishment. Because the PRC refuses to recognize Taiwan as a country, the diction of terms can differ from the general corpus (e.g. Taiwan authorities vs. Taiwan government, Leader Tsai Ing-wen vs. President Tsai Ing-wen). Some “external forces” and “separatists” are major reasons for “Taiwan independence”. The dialogue between mainland and China is conducted mainly by the Taiwan Affairs Office, and this entity is also relevant to retaliatory interventions like “punishment on organisations” and on the “export of natural sand”. However, this cluster only lasted for the beginning days. After Pelosi’s visit, this political difficulty has gone beyond Mainland-Taiwan relations but rather China-US relations. The governing entities are therefore upgraded to the MFA or State Council, therefore the discussion on the dialogue with Taiwan has stopped and changed into reactions to the USA.
 
+
 **D.	Topic Modelling**
  
 In order to understand the topics emerging in the china corpus, a topic modelling was done. The results of the analysis are visualised in an intertopic distance map where the position of each topic reflects its distances to other topics, while the individual topic’s size is determined by its marginal topic distribution. Moreover, a bar chart shows the top-30 most relevant terms for each single topic, setting the estimated term frequency within the selected topic into relation with the overall term frequency in the corpus.
@@ -346,6 +359,7 @@ The second most frequent, Topic 4 (24.5% of tokens), can be titled “Taiwan que
 
 The third most frequent topic, Topic 2 (18.9% of tokens), concerns the military drills. Terms like drill, Eastern Command Theater, army, water, combat appear in this topic. An example would be “PLA will conduct important military exercises and training activities including live-fire drills in six regions surrounding the Taiwan island from Thursday to Sunday” (like count:3966) released by Global Times.
 
+
 ### CONCLUSION
 
 The media corpus, as expected, provides a balanced and holistic view of the topic at hand. Our analysis revealed nearly all the topics and themes one would expect to find when analysing the reactions to the Pelosi visit. The general corpus showed a wide range of narratives—from military activity discussions to the narratives propagated by China and the United States respectively. Since the source of media publications is vast, the topics covered also discussed trade relations, industries and impact on supply chains,  geopolitical impact on other countries, etc.. However, on analysing the subset of Chinese and Taiwanese media publications, we see that the topics discussed primarily revolve around China’s One China policy, the apparent infringement on its national sovereignty and the military actions it carried out in response. This too was expected as the corpus primarily comprised Chinese government-aligned publications. Thus, our analysis proves how important a role media outlets have in shaping news. The publication sources covered in our analysis have varying origins, political alignments and sources of funding, all of which play an essential part in the kind of news they promote. As expected, news and narratives found in Chinese media publications is quite different from that of media publications in the Western world. 
@@ -355,6 +369,7 @@ The result from our Twitter analysis, however, has been different. Contrary to w
 Across the two corpuses, we see that the reporting of military activities has been a constant theme. Since the events unfolding between the two most influential nations of the world had the potential to impact the global order, peace and stability, its coverage by different media outlets and individuals on Twitter is understandable. The differences in the results of the two corpuses arise in other areas, such as in the range of themes discovered and polarity of contents. Media publications being a formal mode of communication, covers more themes than general Twitter data. Another factor to account for is the dearth of Twitter data from China and Taiwan. Since Twitter is not accessible and/or not preferred in those regions, general tweets on the topic are not as well-represented.
 
 Overall, our analysis has produced coherent and holistic results and successfully presented the different reactions to Speaker Pelosi’s visit to Taiwan.
+
 
 ### References
 * https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220824-1
