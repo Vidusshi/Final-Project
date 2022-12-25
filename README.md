@@ -1,7 +1,6 @@
 # Digital Methods for Social Sciences - Final Project
 ## Analysing Reactions to Nancy Pelosi's Taiwan Visit | August 2022 
-
-Group C - Nian Wan, Sajusha Ashok, Shubhnagi Dutta, and Vidusshi Singh
+##### Group C - Nian Wan, Sajusha Ashok, Shubhnagi Dutta, and Vidusshi Singh**
 
 ### Table of Contents
 
@@ -24,7 +23,6 @@ Group C - Nian Wan, Sajusha Ashok, Shubhnagi Dutta, and Vidusshi Singh
 * <a href="https://vidusshi.github.io/Final-Project/#section-iiii--china-corpus-for-twitter"> Section II.II : China Corpus for Twitter </a>
 
 <a href="https://vidusshi.github.io/Final-Project/#conclusion"> Section II.II : Conclusion </a>
-
 
 
 ### INTRODUCTION
@@ -317,10 +315,6 @@ The two graphs well illustrate how terms evolve during the ten days. The first d
 
 **C. Network Mapping**
 
-![1](https://user-images.githubusercontent.com/115983317/209483231-bcaab413-6102-4668-9639-c9c2635c97dc.jpg)
-
-![2](https://user-images.githubusercontent.com/115983317/209483232-a6a9ee7f-a73b-4d42-86fa-29be4a69e4a2.jpg)
-
 ![Picture5](https://user-images.githubusercontent.com/115983317/209482097-217b6534-46d4-4cb4-81f4-881fe0c04d42.jpg)
 
 ![Picture7](https://user-images.githubusercontent.com/115983317/209482115-189f6d24-4eed-4304-a3fe-1f16cdc8a6fd.jpg)
@@ -359,3 +353,9 @@ The result from our Twitter analysis, however, has been different. Contrary to w
 Across the two corpuses, we see that the reporting of military activities has been a constant theme. Since the events unfolding between the two most influential nations of the world had the potential to impact the global order, peace and stability, its coverage by different media outlets and individuals on Twitter is understandable. The differences in the results of the two corpuses arise in other areas, such as in the range of themes discovered and polarity of contents. Media publications being a formal mode of communication, covers more themes than general Twitter data. Another factor to account for is the dearth of Twitter data from China and Taiwan. Since Twitter is not accessible and/or not preferred in those regions, general tweets on the topic are not as well-represented.
 
 Overall, our analysis has produced coherent and holistic results and successfully presented the different reactions to Speaker Pelosi’s visit to Taiwan.
+
+### References
+* https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20220824-1
+* https://web.archive.org/web/20220722001126/https://digitalarchive.wilsoncenter.org/document/121325 
+* https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/202208/t20220812_10742117.html 
+* https://dictionary.cambridge.org/dictionary/english/issue 
