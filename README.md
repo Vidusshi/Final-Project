@@ -4,6 +4,7 @@
 ### Table of Contents
 
 <a href="https://vidusshi.github.io/Final-Project/#introduction"> Introduction </a>
+
 <a href="https://vidusshi.github.io/Final-Project/#methodology"> Methodology </a>
 
 ### INTRODUCTION
