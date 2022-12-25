@@ -9,9 +9,9 @@
 
 <a href="https://vidusshi.github.io/Final-Project/#section-i"> Section I: Analysis of Media Articles </a>
 
-<a href="https://vidusshi.github.io/Final-Project/#section-ii--general-corpus"> Section I.I: General Corpus </a>
+* <a href="https://vidusshi.github.io/Final-Project/#section-ii--general-corpus"> Section I.I: General Corpus </a>
 
-<a href="https://vidusshi.github.io/Final-Project/#section-iii--chinese-and-taiwanese-corpus"> Section I.II: Chinese and Taiwanese Corpus </a>
+* <a href="https://vidusshi.github.io/Final-Project/#section-iii--chinese-and-taiwanese-corpus"> Section I.II: Chinese and Taiwanese Corpus </a>
 
 <a href="https://vidusshi.github.io/Final-Project/#section-iiii--observations-and-inferences"> Section I.III: Observations and Inferences </a>
 
