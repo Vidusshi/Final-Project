@@ -4,11 +4,7 @@
 ### Table of Contents
 
 <a href="https://vidusshi.github.io/Final-Project/#introduction"> Introduction </a>
-
-[Introduction] (https://vidusshi.github.io/Final-Project/#introduction)
-[Methodology] (https://vidusshi.github.io/Final-Project/#methodology)
-
-[Purpose](https://github.com/hillaryfraley/jobbriefings#purpose)
+<a href="https://vidusshi.github.io/Final-Project/#methodology"> Methodology </a>
 
 ### INTRODUCTION
 
