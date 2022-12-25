@@ -256,7 +256,7 @@ At first glance, it is evident that there are three connected networks while the
 As for the locations of users Tweeting about the visit, we can see that besides Taiwan and China, it is primarily users from the United States, India, and other Asian countries like Japan, Malaysia, the Philippines, Hong Kong, Pakistan and so on. 
 
 
-##Section II.II : China Corpus for Twitter
+## Section II.II : China Corpus for Twitter
 
 **Data Collection**
 
@@ -278,6 +278,8 @@ Another set of terms include political ideologies, like “Taiwan question”, �
 
 Apart from the terms “Chinese mainland” and “Chinese people”, another set of terms include governmental agencies like “Taiwan Affairs Office” and “Chinese Foreign Ministry”, as well as authoritative figures like “Minister Wang Yi” and “Spokesperson Hua Chunying”. The Taiwan Affairs Office of the State Council is an administrative agency under the State Council of Mainland China. It is responsible for setting and implementing guidelines and policies related to Taiwan, as stipulated by the Central Committee of the Chinese Communist Party and the State Council itself. Its work also includes preparations for negotiations and agreements with Taiwan authorities and coordination in mail, transport and trade across the Taiwan Strait and so on. Hua Chunying is a Chinese official and former diplomat serving as spokesperson for the MFA since 2012 and as the Assistant Minister of Foreign Affairs since 2021. Hua was the fifth spokeswoman and 27th spokesperson since the position was established in the ministry in 1983. She constantly uses social media like Twitter for comments.
 
+**B. Evolution of terms: Demography and Epic Epoch**
+
 ![Screenshot 2022-12-25 at 9 58 06 PM](https://user-images.githubusercontent.com/115983317/209481790-b4607e6a-7c5f-46d7-a3cf-0fe60d6c55f5.png)
 
 ![Screenshot 2022-12-25 at 9 58 22 PM](https://user-images.githubusercontent.com/115983317/209481798-5cdbb3c9-1391-4d58-811c-4cf51030af93.png)
@@ -286,11 +288,12 @@ The two graphs well illustrate how terms evolve during the ten days. The first d
 
 **C. Network Mapping**
 
-![Picture5](https://user-images.githubusercontent.com/115983317/209481848-8a6f88a5-e808-4173-b7c4-d7d5fb99e8e7.png)
+![Picture5](https://user-images.githubusercontent.com/115983317/209482097-217b6534-46d4-4cb4-81f4-881fe0c04d42.jpg)
 
-![Picture6](https://user-images.githubusercontent.com/115983317/209481856-b420d5cb-19d3-4660-86ef-bda133da9c8a.png)
+![Picture6](https://user-images.githubusercontent.com/115983317/209482113-bd795de7-4143-453b-a760-3937f7967bb3.jpg)
 
-![Picture7](https://user-images.githubusercontent.com/115983317/209481861-15938ec3-140c-40ee-beef-15ff12aa9944.png)
+![Picture7](https://user-images.githubusercontent.com/115983317/209482115-189f6d24-4eed-4304-a3fe-1f16cdc8a6fd.jpg)
+
 
 The map present a homogeneous network mapping of 100 terms of the China corpus, with user name as the third variable. The biggest and most central cluster in green is termed “provocation & Taiwan question”, and all other clusters revolve around this one. This cluster involves mainly terms that are political, diplomatic, and ideological. Provocation implies that this visit is highly provocative to the Chinese people, with America’s intent ignorance on the 1972 joint communiqué. This cluster is highly political with the presence of multiple foreign affairs entities and diplomats (e.g., Chinese MFA, Minister Ma Zhaoxu), who are responsible to make an official statement on the visit. The topic they centre on is the Taiwan question and One-China principle, that the USA is playing the “Taiwan Card” to manoeuvre Chinese politics and its power in the Asia-Pacific. These terms are mainly utilised by diplomatic personnel like Zhang Heqing. This cluster is also the most long-lasting one, which has gone through the whole period.  
 
