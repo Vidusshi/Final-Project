@@ -1,6 +1,13 @@
 # Digital Methods for Social Sciences - Final Project
 ## Analysing Reactions to Nancy Pelosi's Taiwan Visit | August 2022 
 
+### Table of Contents
+
+[Introduction] (https://vidusshi.github.io/Final-Project/#introduction)
+[Methodology] (https://vidusshi.github.io/Final-Project/#methodology)
+
+[Purpose](https://github.com/hillaryfraley/jobbriefings#purpose)
+
 ### INTRODUCTION
 
 On August 2, 2022, Nancy Pelosi - the Speaker of the House of Representatives of the United States - visited Taiwan during a tour of Asia, accompanied by five other Democratic Party members. She did so despite repeated warnings from China and the risk of already strained relations between the United States and China becoming worse. As is already known, Taiwan is a contested island that is constantly at the risk of being ‘reunified’ with the Chinese mainland under the latter’s One China Policy. The visit expectedly came with a serious set of ramifications - the People’s Liberation Army of China deployed a destroyer and guided missile frigate in the waters surrounding Taiwan. In this project, we seek to understand the reactions to the contentious visit by Speaker Pelosi by two primary stakeholders - the media and common public, what impact said event had, and what kind of narratives emerged from it. 
