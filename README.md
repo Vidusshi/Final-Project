@@ -1,6 +1,8 @@
 # Digital Methods for Social Sciences - Final Project
 ## Analysing Reactions to Nancy Pelosi's Taiwan Visit | August 2022 
 
+Group C - Nian Wan, Sajusha Ashok, Shubhnagi Dutta, and Vidusshi Singh
+
 ### Table of Contents
 
 <a href="https://vidusshi.github.io/Final-Project/#introduction"> Introduction </a>
@@ -22,9 +24,6 @@
 * <a href="https://vidusshi.github.io/Final-Project/#section-iiii--china-corpus-for-twitter"> Section II.II : China Corpus for Twitter </a>
 
 <a href="https://vidusshi.github.io/Final-Project/#conclusion"> Section II.II : Conclusion </a>
-
-
-
 
 
 
@@ -318,16 +317,20 @@ The two graphs well illustrate how terms evolve during the ten days. The first d
 
 **C. Network Mapping**
 
-![Picture5](https://user-images.githubusercontent.com/115983317/209482097-217b6534-46d4-4cb4-81f4-881fe0c04d42.jpg)
+![1](https://user-images.githubusercontent.com/115983317/209483231-bcaab413-6102-4668-9639-c9c2635c97dc.jpg)
 
-![Picture6](https://user-images.githubusercontent.com/115983317/209482113-bd795de7-4143-453b-a760-3937f7967bb3.jpg)
+![2](https://user-images.githubusercontent.com/115983317/209483232-a6a9ee7f-a73b-4d42-86fa-29be4a69e4a2.jpg)
+
+![Picture5](https://user-images.githubusercontent.com/115983317/209482097-217b6534-46d4-4cb4-81f4-881fe0c04d42.jpg)
 
 ![Picture7](https://user-images.githubusercontent.com/115983317/209482115-189f6d24-4eed-4304-a3fe-1f16cdc8a6fd.jpg)
 
 
 The map presents a homogeneous network mapping of 100 terms of the China corpus, with user name as the third variable. The biggest and most central cluster in green is termed “provocation & Taiwan question”, and all other clusters revolve around this one. This cluster involves mainly terms that are political, diplomatic, and ideological. Provocation implies that this visit is highly provocative to the Chinese people, with America’s intent ignorance on the 1972 joint communiqué. This cluster is highly political with the presence of multiple foreign affairs entities and diplomats (e.g., Chinese MFA, Minister Ma Zhaoxu), who are responsible to make an official statement on the visit. The topic they centre on is the Taiwan question and One-China principle, that the USA is playing the “Taiwan Card” to manoeuvre Chinese politics and its power in the Asia-Pacific. These terms are mainly utilised by diplomatic personnel like Zhang Heqing. This cluster is also the most long-lasting one, which has gone through the whole period.  
 
-To the right of the cluster of diplomacy and politics is the yellow cluster in the military. The two clusters are associated with the term “Taiwan strait”, which has both geographical and political implications. Major nodes in this cluster involve “Eastern Theater Command” and PLA, the directing entity and the agents of all the military terms around them, including “joint military operations” and “waters and airspace”. Compared to the former one in green, this cluster of terms were mainly published by state-affiliated media, including CNN international. This reveals a tendency that China prefers to declare military drills by entities rather than by diplomats. This can establish a more severe and solemn atmosphere, and also avoid personal troubles towards diplomats. This cluster is also a long lasting cluster until the penultimate day.
+To the right of the cluster of diplomacy and politics is the yellow cluster of the military. The two clusters are associated with the term “Taiwan strait”, which has both geographical and political implications. Major nodes in this cluster involve “Eastern Theater Command” and PLA, the directing entity and the agents of all the military terms around them, including “joint military operations” and “waters and airspace”. Compared to the former one in green, this cluster of terms were mainly published by state-affiliated media, including CNN international. This reveals a tendency that China prefers to declare military drills by entities rather than by diplomats. This can establish a more severe and solemn atmosphere, and also avoid personal troubles towards diplomats. This cluster is also a long lasting cluster until the penultimate day.
+
+![Picture6](https://user-images.githubusercontent.com/115983317/209482113-bd795de7-4143-453b-a760-3937f7967bb3.jpg)
 
 The blue cluster at the bottom of the green cluster are the clusters that focus on Taiwan authorities, Taiwan independence, dialogue between mainland China and Taiwan, and possible punishment. Because the PRC refuses to recognize Taiwan as a country, the diction of terms can differ from the general corpus (e.g. Taiwan authorities vs. Taiwan government, Leader Tsai Ing-wen vs. President Tsai Ing-wen). Some “external forces” and “separatists” are major reasons for “Taiwan independence”. The dialogue between mainland and China is conducted mainly by the Taiwan Affairs Office, and this entity is also relevant to retaliatory interventions like “punishment on organisations” and on the “export of natural sand”. However, this cluster only lasted for the beginning days. After Pelosi’s visit, this political difficulty has gone beyond Mainland-Taiwan relations but rather China-US relations. The governing entities are therefore upgraded to the MFA or State Council, therefore the discussion on the dialogue with Taiwan has stopped and changed into reactions to the USA.
 
