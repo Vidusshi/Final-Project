@@ -97,7 +97,9 @@ Coming to the last relevant topic (Topic 7, 3.80% of tokens), the themes revolve
 
 The last topic, Topic 6 (2.80% of tokens) gives a wide range of terms that indicate “Media” references like “user”, “twitter”, “social”, “media”, “post”, “website”, “netizens”, etc., that points towards discussions around the trip on social media platforms and also statements made by country officials. While this may not directly relate to our research question, it does show that the event attracted both social media and press attention.
 
-![Screenshot 2022-12-25 at 9 30 28 PM](https://user-images.githubusercontent.com/115983317/209481226-083328f8-9a90-4155-9373-695e12e9d76e.png)
+![Screenshot 2022-12-25 at 9 24 35 PM](https://user-images.githubusercontent.com/115983317/209481117-2042330e-6e12-42f5-a732-ddf147b4a6ce.png)
+
+![Screenshot 2022-12-25 at 9 30 28 PM](https://user-images.githubusercontent.com/115983317/209481226-083328f8-9a90-4155-9373-695e12e9d76e.png) 
 
 Overall, we can see that a few key topics surrounded the discussions around Nancy Pelosi’s trip. To further supplement the analysis, an intertopic distance map is provided for a better understanding of the “distance” between the 10 identified topics based on their positions on the map. The discussion was dominated by themes of diplomatic relations, trade, and defence; where the topic of US-China relations can be seen to be closely placed to that of defence and the general discussion around the Asia tour in the intertopic distance map.
 
@@ -208,13 +210,13 @@ From topic modelling, the following observations can be made about the themes di
 
 # Section II: Twitter Analysis
 
-**Data collection**
+**Data Collection**
 
 Data for the corpus was extracted from Twitter using Google Collab. All English language Tweets with the search query “Pelosi OR Taiwan” between the dates July 30, 2022 and August 10, 2022 were collected using the mentioned software. The rationale behind these dates is that the former marks a couple of days before Nancy Pelosi visited Taiwan (August 2) and the latter marks about a week after the visit. It is during this period that social media discussed the issue most. Furthermore, we are aware that collecting only English language Tweets comes with its limitation of not covering important vernacular Tweets, especially from China. Given this, we also perform an analysis of Tweets that reflect the official Chinese opinion on the issue in the following section. The present section is limited to an analysis of a more general and global take on the visit. 
 
 ## Section II.I : General Twitter Corpus
 
-**A. Top locations**
+**A. Top Locations**
 
 ![Screenshot 2022-12-25 at 9 47 30 PM](https://user-images.githubusercontent.com/115983317/209481580-144538a2-40ca-474f-9648-5d2178a1a5ec.png)
 
@@ -222,7 +224,7 @@ The table above shows which countries Tweeted most about Nancy Pelosi’s visit 
 
 Another interesting fact to note is that India features rather high in the list despite the event not directly affecting its inhabitants. One explanation for this could be that India - much like the United States - has had strained diplomatic relations with China and is frequently talked about online by the Indian public and media alike. Another could be that India is among the most populous countries in the world; it is but natural that several Tweets are sent from there. The United Kingdom’s Twitter interest (third in the list of countries) in the event could be because of similar issues faced by Hong Kong, which is a former British colony. 
 
-**B. Top terms**
+**B. Top Terms**
 
 ![Screenshot 2022-12-25 at 9 48 21 PM](https://user-images.githubusercontent.com/115983317/209481602-0a0c6149-8dc4-4ae0-8423-23b7a5f9477f.png)
 
@@ -280,7 +282,7 @@ Another set of terms include political ideologies, like “Taiwan question”, �
 
 Apart from the terms “Chinese mainland” and “Chinese people”, another set of terms include governmental agencies like “Taiwan Affairs Office” and “Chinese Foreign Ministry”, as well as authoritative figures like “Minister Wang Yi” and “Spokesperson Hua Chunying”. The Taiwan Affairs Office of the State Council is an administrative agency under the State Council of Mainland China. It is responsible for setting and implementing guidelines and policies related to Taiwan, as stipulated by the Central Committee of the Chinese Communist Party and the State Council itself. Its work also includes preparations for negotiations and agreements with Taiwan authorities and coordination in mail, transport and trade across the Taiwan Strait and so on. Hua Chunying is a Chinese official and former diplomat serving as spokesperson for the MFA since 2012 and as the Assistant Minister of Foreign Affairs since 2021. Hua was the fifth spokeswoman and 27th spokesperson since the position was established in the ministry in 1983. She constantly uses social media like Twitter for comments.
 
-**B. Evolution of terms: Demography and Epic Epoch**
+**B. Evolution of Terms: Demography and Epic Epoch**
 
 ![Screenshot 2022-12-25 at 9 58 06 PM](https://user-images.githubusercontent.com/115983317/209481790-b4607e6a-7c5f-46d7-a3cf-0fe60d6c55f5.png)
 
@@ -324,9 +326,7 @@ The third most frequent topic, Topic 2 (18.9% of tokens), concerns the military 
 The media corpus, as expected, provides a balanced and holistic view of the topic at hand. Our analysis revealed nearly all the topics and themes one would expect to find when analysing the reactions to the Pelosi visit. The general corpus showed a wide range of narratives—from military activity discussions to the narratives propagated by China and the United States respectively. Since the source of media publications is vast, the topics covered also discussed trade relations, industries and impact on supply chains,  geopolitical impact on other countries, etc.. However, on analysing the subset of Chinese and Taiwanese media publications, we see that the topics discussed primarily revolve around China’s One China policy, the apparent infringement on its national sovereignty and the military actions it carried out in response. This too was expected as the corpus primarily comprised Chinese government-aligned publications. Thus, our analysis proves how important a role media outlets have in shaping news. The publication sources covered in our analysis have varying origins, political alignments and sources of funding, all of which play an essential part in the kind of news they promote. As expected, news and narratives found in Chinese media publications is quite different from that of media publications in the Western world. 
 
 The result from our Twitter analysis, however, has been different. Contrary to what one would expect, the general Twitter corpus presented mostly neutral views on the topic with a few exceptions in support of Taiwan. The discussions primarily focused on the military activities being carried out, which has also been an important theme in our media corpus analysis. Analysis of the Chinese Twitter corpus, on the other hand, revealed much more polarised views. The narrative was almost solely in support of the One China policy with the added angle of military activities. Given that this corpus comprised official Chinese government actors and state-sponsored news agencies, the findings are justified. Thus, the Twitter analysis also shows how the source of information can polarise news and impact its dissemination.
+
 Across the two corpuses, we see that the reporting of military activities has been a constant theme. Since the events unfolding between the two most influential nations of the world had the potential to impact the global order, peace and stability, its coverage by different media outlets and individuals on Twitter is understandable. The differences in the results of the two corpuses arise in other areas, such as in the range of themes discovered and polarity of contents. Media publications being a formal mode of communication, covers more themes than general Twitter data. Another factor to account for is the dearth of Twitter data from China and Taiwan. Since Twitter is not accessible and/or not preferred in those regions, general tweets on the topic are not as well-represented.
 
 Overall, our analysis has produced coherent and holistic results and successfully presented the different reactions to Speaker Pelosi’s visit to Taiwan.
-
-
-
