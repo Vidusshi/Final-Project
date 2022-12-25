@@ -1,7 +1,7 @@
 # Final-Project
 Final Project - Group C
 
-![image](https://user-images.githubusercontent.com/115983317/209479467-0f750d94-3545-48fd-a3d4-36282ce36b72.png)
+![image](https://user-images.githubusercontent.com/115983317/209479467-0f750d94-3545-48fd-a3d4-36282ce36b72.png | width=100)
 
 ## INTRODUCTION
 
