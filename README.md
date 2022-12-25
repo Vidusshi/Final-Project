@@ -8,7 +8,7 @@
 
 <a href="https://vidusshi.github.io/Final-Project/#methodology"> Methodology </a>
 
-<a href="https://vidusshi.github.io/Final-Project/#section-i"> Section I: Analysis of Media Articles </a>
+<a href="https://vidusshi.github.io/Final-Project/#section-i-analysis-of-media-articles"> Section I: Analysis of Media Articles </a>
 
 * <a href="https://vidusshi.github.io/Final-Project/#section-ii--general-corpus"> Section I.I: General Corpus </a>
 
