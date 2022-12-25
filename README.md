@@ -7,6 +7,21 @@
 
 <a href="https://vidusshi.github.io/Final-Project/#methodology"> Methodology </a>
 
+<a href="https://vidusshi.github.io/Final-Project/#section-i"> Section I: Analysis of Media Articles </a>
+
+<a href="https://vidusshi.github.io/Final-Project/#section-ii--general-corpus"> Section I.I: General Corpus </a>
+
+<a href="https://vidusshi.github.io/Final-Project/#section-iii--chinese-and-taiwanese-corpus"> Section I.II: Chinese and Taiwanese Corpus </a>
+
+<a href="https://vidusshi.github.io/Final-Project/#section-iiii--observations-and-inferences"> Section I.III: Observations and Inferences </a>
+
+<a href="https://vidusshi.github.io/Final-Project/#section-iiii--observations-and-inferences"> Section I.III: Observations and Inferences </a>
+
+
+
+
+
+
 ### INTRODUCTION
 
 On August 2, 2022, Nancy Pelosi - the Speaker of the House of Representatives of the United States - visited Taiwan during a tour of Asia, accompanied by five other Democratic Party members. She did so despite repeated warnings from China and the risk of already strained relations between the United States and China becoming worse. As is already known, Taiwan is a contested island that is constantly at the risk of being ‘reunified’ with the Chinese mainland under the latter’s One China Policy. The visit expectedly came with a serious set of ramifications - the People’s Liberation Army of China deployed a destroyer and guided missile frigate in the waters surrounding Taiwan. In this project, we seek to understand the reactions to the contentious visit by Speaker Pelosi by two primary stakeholders - the media and common public, what impact said event had, and what kind of narratives emerged from it. 
@@ -16,7 +31,7 @@ On August 2, 2022, Nancy Pelosi - the Speaker of the House of Representatives of
 
 In order to understand the impact of Speaker Pelosi’s visit and the narratives promoted by different actors, we use different digital methods on two different datasets on the CorText platform. The first is a corpus of media articles on the visit published between 30th July 2022—when debates regarding her potential visit started, to 10th August 2022—a week after the visit itself. The second dataset is a corpus of tweets published in the same period that mention Pelosi’s visit to Taiwan. For each section, we also analyse a smaller corpus of solely Chinese and/or Taiwanese sources to better reflect the nuances of the themes discussed. Each analysis involves the use of digital media analysis techniques such as Demography, Epic Epoch, Topic Modeling, Terms Extraction and Network Mapping scripts.
 
-## SECTION I
+## SECTION I: Analysis of Media Articles
  
 **Analysis of Media Articles**
 
@@ -200,21 +215,20 @@ Interestingly, in the clusters presented above, we can see some more representat
 
 ## Section I.III : Observations and Inferences
 
+From topic modelling, the following observations can be made about the themes discussed:
+- Discussions within both the corpuses revolved around similar topics with only the differing frequencies of said topics providing us with insights into the different focal points (topics). 
+- Defence and military action were widely discussed across the two corpusses followed by themes surrounding trade, manufacturing, and international relations. 
+- In the China-Taiwan corpus, it is observed that diplomatic relations and international relations are widely discussed, potentially as a result of China highlighting that the trip was in violation of the one-China principle which would threaten peace and stability in the region. 
+- The results were as expected – the general corpus focussed on defence, trade, and manufacturing while the China-Taiwan corpus focussed on China policies and diplomatic ties. 
+
 From the network maps, the following observations can be made about narratives identified:
 - ‘Military activities’ cluster that focuses on military exercises and manoeuvres carried out by the parties involved, especially China. The coverage of these events was provided by worldwide media.
 - ‘Chinese policy’ cluster that expounds on the stance of the People’s Republic of China on the “Taiwan question”—its One China policy and disapproval of foreign interference in what it considers to be internal affairs. This narrative was primarily propagated by Chinese state-owned media outlets.
 - ‘Western narrative’ cluster, mostly based in the United States, that talks about its support to Taiwan and democracy over the perils of authoritarianism. As expected, this is primarily published by popular western publishers.
 - The corpus of Chinese and Taiwanese media articles shows a Taiwanese cluster of key political figures and institutions, and establishes a trade-related link between China-Taiwan and the rest of the world.
 
-From topic modelling, the following observations can be made about the themes discussed:
-- Discussions within both the corpuses revolved around similar topics with only the differing frequencies of said topics providing us with insights into the different focal points (topics). 
-- Defence and military action were widely discussed across the two corpusses followed by themes surrounding trade, manufacturing, and international relations. 
-- In the general corpus, terms related to “Defence” were the most widely mentioned while in the China and Taiwan corpus, “one-China principle” secured the top spot in terms of frequency of usage. 
-- In the China-Taiwan corpus, it is observed that diplomatic relations and international relations are widely discussed, potentially as a result of China highlighting that the trip was in violation of the one-China principle which would threaten peace and stability in the region. 
-- The results were as expected – the general corpus focussed on defence, trade, and manufacturing while the China-Taiwan corpus focussed on China policies and diplomatic ties. 
 
-
-# Section II: Twitter Analysis
+# Section II: Twitter Analysis 
 
 **Data Collection**
 
@@ -305,7 +319,7 @@ The two graphs well illustrate how terms evolve during the ten days. The first d
 ![Picture7](https://user-images.githubusercontent.com/115983317/209482115-189f6d24-4eed-4304-a3fe-1f16cdc8a6fd.jpg)
 
 
-The map present a homogeneous network mapping of 100 terms of the China corpus, with user name as the third variable. The biggest and most central cluster in green is termed “provocation & Taiwan question”, and all other clusters revolve around this one. This cluster involves mainly terms that are political, diplomatic, and ideological. Provocation implies that this visit is highly provocative to the Chinese people, with America’s intent ignorance on the 1972 joint communiqué. This cluster is highly political with the presence of multiple foreign affairs entities and diplomats (e.g., Chinese MFA, Minister Ma Zhaoxu), who are responsible to make an official statement on the visit. The topic they centre on is the Taiwan question and One-China principle, that the USA is playing the “Taiwan Card” to manoeuvre Chinese politics and its power in the Asia-Pacific. These terms are mainly utilised by diplomatic personnel like Zhang Heqing. This cluster is also the most long-lasting one, which has gone through the whole period.  
+The map presents a homogeneous network mapping of 100 terms of the China corpus, with user name as the third variable. The biggest and most central cluster in green is termed “provocation & Taiwan question”, and all other clusters revolve around this one. This cluster involves mainly terms that are political, diplomatic, and ideological. Provocation implies that this visit is highly provocative to the Chinese people, with America’s intent ignorance on the 1972 joint communiqué. This cluster is highly political with the presence of multiple foreign affairs entities and diplomats (e.g., Chinese MFA, Minister Ma Zhaoxu), who are responsible to make an official statement on the visit. The topic they centre on is the Taiwan question and One-China principle, that the USA is playing the “Taiwan Card” to manoeuvre Chinese politics and its power in the Asia-Pacific. These terms are mainly utilised by diplomatic personnel like Zhang Heqing. This cluster is also the most long-lasting one, which has gone through the whole period.  
 
 To the right of the cluster of diplomacy and politics is the yellow cluster in the military. The two clusters are associated with the term “Taiwan strait”, which has both geographical and political implications. Major nodes in this cluster involve “Eastern Theater Command” and PLA, the directing entity and the agents of all the military terms around them, including “joint military operations” and “waters and airspace”. Compared to the former one in green, this cluster of terms were mainly published by state-affiliated media, including CNN international. This reveals a tendency that China prefers to declare military drills by entities rather than by diplomats. This can establish a more severe and solemn atmosphere, and also avoid personal troubles towards diplomats. This cluster is also a long lasting cluster until the penultimate day.
 
