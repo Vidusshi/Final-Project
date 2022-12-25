@@ -13,13 +13,13 @@
 
 * <a href="https://vidusshi.github.io/Final-Project/#section-iii--chinese-and-taiwanese-corpus"> Section I.II: Chinese and Taiwanese Corpus </a>
 
-<a href="https://vidusshi.github.io/Final-Project/#section-iiii--observations-and-inferences"> Section I.III: Observations and Inferences </a>
+* <a href="https://vidusshi.github.io/Final-Project/#section-iiii--observations-and-inferences"> Section I.III: Observations and Inferences </a>
 
 <a href="https://vidusshi.github.io/Final-Project/#section-iii--general-twitter-corpus"> Section II: Twitter Analysis </a>
 
-<a href="https://vidusshi.github.io/Final-Project/#section-iii--general-twitter-corpus"> Section II.I: General Twitter Corpus </a>
+* <a href="https://vidusshi.github.io/Final-Project/#section-iii--general-twitter-corpus"> Section II.I: General Twitter Corpus </a>
 
-<a href="https://vidusshi.github.io/Final-Project/#section-iiii--china-corpus-for-twitter"> Section II.II : China Corpus for Twitter </a>
+* <a href="https://vidusshi.github.io/Final-Project/#section-iiii--china-corpus-for-twitter"> Section II.II : China Corpus for Twitter </a>
 
 <a href="https://vidusshi.github.io/Final-Project/#conclusion"> Section II.II : Conclusion </a>
 
