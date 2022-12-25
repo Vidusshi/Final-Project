@@ -151,6 +151,8 @@ The second smaller cluster is linked to the previously explored ‘military acti
 
 Since our analysis uses only English language articles, there is an over-representation of Western-origin media articles in our corpus. However, given that this event happened in Asia and that the countries of the region—especially Taiwan and China—were also directly involved, it is important to better understand their reactions to the visit. To that end, we analyse a subset of the corpus that comprises English media articles by popular publishers in China and Taiwan—Taiwan News, China Daily, South China Morning Post and Xinhua, each of which have multiple media publications. This would allow us to delve deeper into the themes discussed at the other end of the spectrum by Chinese and Taiwanese media. This sub-section comprises Topic Modelling and Network Mapping of the Chinese and Taiwanese corpus.
 
+**A. Chinese and Taiwanese Corpus: Topic Modelling**
+
 ![Screenshot 2022-12-25 at 9 39 49 PM](https://user-images.githubusercontent.com/115983317/209481419-33be3601-9918-4243-aa9e-defcc53733ec.png)
 
 Since our general corpus is more representative of western media, we analysed a smaller corpus that consists of press articles specifically from China and Taiwan, with China dominating the same. Topics surrounding the discussion in the Chinese and Taiwanese media are found to be similar to those in the general corpus, however, the frequency of the topics differed between the two. The top 10 frequent topics along with their frequencies and illustrative terms is given below.
