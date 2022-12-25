@@ -58,7 +58,7 @@ Looking at the above trend, we can see that the term “Asia tour” peaked in t
 Discussions around the “semiconductor industry” peak in the last part of the study period possibly in reaction to the sanctions imposed and military drills around Taiwan by China that threatened the industry’s trade. Other topics are found to have a consistently medium to low frequency of discussion throughout the study period. 
 ![Screenshot 2022-12-25 at 9 22 48 PM](https://user-images.githubusercontent.com/115983317/209481070-6aa2ac87-2511-486b-a225-124a2d0f71fd.png)
 
-Moving on to the bump graph as presented below, similar trends can be observed – “Asian tour” is first mentioned with high frequency and then is overtaken by “military drills” and “median line”. Terms like “territorial integrity” and “national sovereignty” also lose importance over time in the corpus. The term “Semiconductor industry”, as observed above, can be seen relatively rising over time and terms like “blockade of Taiwan” and “ballistic missiles” rise in the middle and then lose importance in the discussions over the last few days. 
+Moving on to the bump graph as presented above, similar trends can be observed – “Asian tour” is first mentioned with high frequency and then is overtaken by “military drills” and “median line”. Terms like “territorial integrity” and “national sovereignty” also lose importance over time in the corpus. The term “Semiconductor industry”, as observed above, can be seen relatively rising over time and terms like “blockade of Taiwan” and “ballistic missiles” rise in the middle and then lose importance in the discussions over the last few days. 
 
 **D. General Corpus: Topic Modelling**
 
