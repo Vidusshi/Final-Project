@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-<a href="[http://www.something.com](https://vidusshi.github.io/Final-Project/#introduction)"> Introduction </a>
+<a href="https://www.vidusshi.github.io/Final-Project/#introduction"> Introduction </a>
 
 [Introduction] (https://vidusshi.github.io/Final-Project/#introduction)
 [Methodology] (https://vidusshi.github.io/Final-Project/#methodology)
