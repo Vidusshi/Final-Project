@@ -1,6 +1,6 @@
 # Digital Methods for Social Sciences - Final Project
 ## Analysing Reactions to Nancy Pelosi's Taiwan Visit | August 2022 
-#### Group C - Nian Wan, Sajusha Ashok, Shubhnagi Dutta & Vidusshi Singh
+#### Group C - Nian Wan, Sajusha Ashok, Shubhangi Dutta & Vidusshi Singh
 
 ### Table of Contents
 
