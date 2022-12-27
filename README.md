@@ -22,7 +22,7 @@
 
 * <a href="https://vidusshi.github.io/Final-Project/#section-iiii--china-corpus-for-twitter"> Section II.II : China Corpus for Twitter </a>
 
-<a href="https://vidusshi.github.io/Final-Project/#conclusion"> Section II.II : Conclusion </a>
+<a href="https://vidusshi.github.io/Final-Project/#conclusion"> Conclusion </a>
 
 
 ### INTRODUCTION
